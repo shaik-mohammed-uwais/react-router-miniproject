@@ -1,5 +1,8 @@
-# a simple project to understand react router
+# A Simple Project to Understand React Router
 
-a simple project which helps to under the react router concept better
-project link : https://react-router-miniproject-uwais.onrender.com/
-api : https://api.github.com/users/shaik-mohammed-uwais
+This is a simple project designed to help you better understand the React Router concept.
+
+## Links
+- **Project Link** : https://react-router-miniproject-uwais.onrender.com/
+- **API** : https://api.github.com/users/shaik-mohammed-uwais
+
